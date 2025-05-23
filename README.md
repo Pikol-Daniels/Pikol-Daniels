@@ -2,7 +2,8 @@
 - 👀 I’m interested in BackEnd and DevOP Engineering
 - 🌱 I’m currently learning BackEnd and Python 
 - 💞️ I’m looking to collaborate with BackEnd or DevOP Engineers
-- 📫 How to reach me: danielokitopikol@gmail.com                      -😄 Pronouns: He/Him 
+- 📫 How to reach me: danielokitopikol@gmail.com
+- -😄 Pronouns: He/Him 
 - ⚡ Fun fact: I would love to solve complex bugs almost as much as I love fitness
 
 <!---
